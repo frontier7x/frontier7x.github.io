@@ -35,7 +35,7 @@ function App() {
                 <div class="max-w-md">
 
                   <h1 class="text-5xl font-bold" >Sobre mí</h1>
-                  <p class="py-6">Soy alguien muy adepto a estudiar y conocer tecnologías nuevas. Tengo mucha disposición en trabajar en equipos diversos con diferentes roles y me encanta lo que hago. </p>
+                  <p class="py-6">Soy alguien muy adepto a estudiar y conocer tecnologías nuevas. Estoy dispuesto a trabajar en equipos diversos con diferentes roles y me encanta lo que hago. </p>
                 </div>
 
               </div>
@@ -64,7 +64,7 @@ function App() {
                 <div class="max-w">
 
                   <h1 class="text-5xl font-bold">Actualmente</h1>
-                   <p class="py-6">Me encuentro estudiando nuevas herramientas para utilizarlas tanto en mi actual trabajo como en proyectos independientes . </p>
+                   <p class="py-6">Me encuentro estudiando nuevas herramientas de manera autodidacta para utilizarlas tanto en mi actual trabajo como en proyectos independientes . </p>
                    <ul class="menu menu-horizontal text-5xl rounded-box">
                      <li class="tooltip" data-tip="React">
                        <a class="devicon-react-plain" >
