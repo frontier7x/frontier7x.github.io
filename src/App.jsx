@@ -23,7 +23,7 @@ function App() {
               <img src="https://tallerdigital.cl/wp-content/uploads/2020/06/andres_barrera_byn.jpg" class="max-w-sm mask mask-parallelogram-4 opacity-90" />
               <div>
                 <h1 class="text-5xl font-bold">Hola!</h1>
-                <p class="py-6">Bienvenido a mi portafolio, mi nombre es Andrés y soy un programador Backend.</p>
+                <p class="py-6">Bienvenido a mi portafolio, mi nombre es Andrés y soy un programador Fullstack.</p>
               </div>
             </div>
           </div>
