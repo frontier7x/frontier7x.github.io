@@ -18,7 +18,7 @@ git add -A
 git commit -m 'deploy'
 
 # if you are deploying to https://<USERNAME>.github.io
- git push -f git@github.com:frontier7x/frontier7x.github.io.git main:gh-pages
+# git push -f git@github.com:frontier7x/frontier7x.github.io.git main:gh-pages
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
 #git push -f git@github.com:frontier7x/portfolio-react.git main:gh-pages
