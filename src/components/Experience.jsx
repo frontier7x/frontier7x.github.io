@@ -41,7 +41,7 @@ export function Experience() {
 			  	  	  	      <li class="md:text-justify">Implementación CRM  - <a href="https://www.monocontact.com" class="hover:text-sky-800" target="_blank">MonoContact</a>, Municipalidad de Lo Barnechea. 
 			  	  	  	        Módulo CRM realizado para la Municipalidad de Lo Barnechea, manejo de solicitudes de vecinos mediante formularios externos.
 			  	  			  </li>
-			  	  			  	<ul class="menu menu-horizontal text-5xl rounded-box">
+			  	  			  	<ul class="menu menu-horizontal text-5xl rounded-box m-3">
 			  	  			  	  <li>
 			  	  			  	    <a class="devicon-php-plain">
 			  	  			  	    </a>
@@ -50,8 +50,16 @@ export function Experience() {
 			  	  			  	    <a class="devicon-yii-plain-wordmark">
 			  	  			  	    </a>
 			  	  			  	  </li>
-			  	  			  	  <li>
+			  	  			  	  <li class="tooltip" data-tip="Javascript">
 			  	  			  	    <a class="devicon-javascript-plain">
+			  	  			  	    </a>
+			  	  			  	  </li>
+								  <li class="tooltip" data-tip="NodeJS">
+			  	  			  	    <a class="devicon-nodejs-plain">
+			  	  			  	    </a>
+			  	  			  	  </li>
+								  <li class="tooltip" data-tip="TypeScript">
+			  	  			  	    <a class="devicon-typescript-plain">
 			  	  			  	    </a>
 			  	  			  	  </li>
 			  	  			  	  <li class="tooltip" data-tip="Git">
@@ -66,8 +74,12 @@ export function Experience() {
 			  	  			  	    <a class="devicon-mysql-plain">
 			  	  			  	    </a>
 			  	  			  	  </li>
-			  	  			  	  <li>
+			  	  			  	  <li class="tooltip" data-tip="Html5">
 			  	  			  	    <a class="devicon-html5-plain">
+			  	  			  	    </a>
+			  	  			  	  </li>
+								  <li class="tooltip" data-tip="Python">
+			  	  			  	    <a class="devicon-python-plain">
 			  	  			  	    </a>
 			  	  			  	  </li>
 			  	  			  	</ul>
@@ -87,7 +99,7 @@ export function Experience() {
 			  	  <div class="flex md:justify-center px-4 py-16 bg-base-200">
 			  	  	  	<ul class="list-inside list-disc">
 			  	  	  	    <li class="md:text-justify">Desarrollo versión de prueba para sistema de Abastecimiento, acreditación de solicitudes.  </li>
-			  	  	  	    <ul class="menu menu-horizontal text-5xl rounded-box">
+			  	  	  	    <ul class="menu menu-horizontal text-5xl rounded-box m-3">
 			  	  	  	      <li>
 			  	  	  	        <a class="devicon-php-plain">
 			  	  	  	        </a>
