@@ -23,7 +23,7 @@ function App() {
               <img src="https://tallerdigital.cl/wp-content/uploads/2020/06/andres_barrera_byn.jpg" class="max-w-sm mask mask-parallelogram-4 opacity-90" />
               <div>
                 <h1 class="text-5xl font-bold">Hola!</h1>
-                <p class="py-6">Bienvenido a mi portafolio, mi nombre es Andrés y soy un programador Fullstack.</p>
+                <p class="py-6">Bienvenido a mi portafolio, mi nombre es Andrés y soy un programador Backend actualmente en <a href="https://etpay.com" target='blank'>ETPay</a> .</p>
               </div>
             </div>
           </div>
@@ -66,16 +66,8 @@ function App() {
                   <h1 class="text-5xl font-bold">Actualmente</h1>
                    <p class="py-6">Me encuentro estudiando nuevas herramientas de manera autodidacta para utilizarlas tanto en mi actual trabajo como en proyectos independientes . </p>
                    <ul class="menu menu-horizontal text-5xl rounded-box">
-                     <li class="tooltip" data-tip="React">
-                       <a class="devicon-react-plain" >
-                       </a>
-                     </li>
-                     <li class="tooltip" data-tip="Express">
-                       <a class="devicon-express-original">
-                       </a>
-                     </li>
-                     <li class="tooltip" data-tip="MongoDB">
-                       <a class="devicon-mongodb-plain">
+                     <li class="tooltip">
+                       <a class="devicon-amazonwebservices-plain" >
                        </a>
                      </li>
                      <li class="tooltip" data-tip="Flutter">

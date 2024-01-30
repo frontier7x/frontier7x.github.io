@@ -8,6 +8,52 @@ export function Experience() {
 			<div class="collapse pointer-events-auto" >
 			  <input type="checkbox" /> 
 			  <div class="collapse-title font-medium text-xl py-16">
+			    Backend Developer - ETpay (2023 - Present) <i class="fa fa-toggle-down"></i>
+			  </div>
+			  <div class="collapse-content"> 
+			    <div class="mockup-window border bg-base-300">
+			  	  <div class="flex md:justify-center px-4 py-16 bg-base-200">
+			  	  	  	<ul class="list-inside list-disc">
+			  	  	  	    <li class="md:text-justify">Desarrollo nuevas funciones para sistemas transaccionales .  </li>
+			  	  	  	    <li class="md:text-justify">Desarrollo nuevos productos transaccionales .  </li>
+							<ul class="menu menu-horizontal text-5xl rounded-box m-3">
+			  	  	  	      <li>
+			  	  	  	        <a class="devicon-nodejs-plain">
+			  	  	  	        </a>
+			  	  	  	      </li>
+			  	  	  	      <li>
+			  	  	  	        <a class="devicon-python-plain-wordmark">
+			  	  	  	        </a>
+			  	  	  	      </li>
+			  	  	  	      <li>
+			  	  	  	        <a class="devicon-amazonwebservices-plain">
+			  	  	  	        </a>
+			  	  	  	      </li>
+			  	  	  	      <li>
+			  	  	  	        <a class="devicon-git-plain">
+			  	  	  	        </a>
+			  	  	  	      </li>
+			  	  	  	      <li>
+			  	  	  	        <a class="devicon-gitlab-plain">
+			  	  	  	        </a>
+			  	  	  	      </li>
+			  	  	  	      <li>
+			  	  	  	        <a class="devicon-mongodb-plain">
+			  	  	  	        </a>
+			  	  	  	      </li>
+							  <li>
+								<a class="devicon-redis-plain"></a>
+							  </li>
+			  	  	  	    </ul>
+			  	  	  	</ul>
+			  	  </div>
+			  	</div>
+			  </div>
+			</div>
+			
+			<div class="collapse pointer-events-auto" >
+			  <input type="checkbox" /> 
+			  <div class="collapse-title font-medium text-xl py-16">
 			    Este portafolio <i class="fa fa-toggle-down"></i> 
 			  </div>
 			  <div class="collapse-content"> 
@@ -26,7 +72,7 @@ export function Experience() {
 			<div class="collapse pointer-events-auto" >
 			  <input type="checkbox" /> 
 			  <div class="collapse-title font-medium text-xl py-16">
-			    Lead Developer - Taller Digital (2018 - Present) <i class="fa fa-toggle-down"></i> 
+			    Lead Developer - Taller Digital (2018 - 2023) <i class="fa fa-toggle-down"></i> 
 			  </div>
 			  <div class="collapse-content"> 
 			  	<div class="mockup-window border bg-base-300">
